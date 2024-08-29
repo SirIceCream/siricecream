@@ -1,4 +1,4 @@
-# Hi there, I'm Asdren Alexander Berberi 👋
+# Hi there 👋
 
 I am a **Software Developer** with a passion for creating innovative solutions. With a background in technical physics, I bring a unique perspective to software development. My journey in tech has led me to focus on Java development and modern web applications.
 
