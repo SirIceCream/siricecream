@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Asdren Alexander Berberi 👋
 
-<!--
-**SirIceCream/siricecream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Developer** with a passion for creating innovative solutions. With a background in technical physics, I bring a unique perspective to software development. My journey in tech has led me to focus on Java development and modern web applications.
 
-Here are some ideas to get you started:
+🧑‍💻 **Currently focused on:** Java development and exploring cutting-edge web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Presently working with:**
+
+- **Spring Boot**
+- **SQL**
+- **Docker**
+- **Git**
+
+🚀 **My repositories:** These are snapshots of my coding journey, showcasing projects that combine my expertise in software development and deep mathematical knowledge.
+
+## Let’s connect:
+
+
+- **Email:** [alexanderberberi@gmail.com](mailto:alexanderberberi@gmail.com)
+
+## Tools & Technologies
+
+- **Languages:** Java, SQL
+- **Frameworks:** Spring Boot, Hibernate
+- **Databases:** MySQL, MongoDB
+- **Tools:** Docker, Git, Maven, IntelliJ IDEA
+
+---
+
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or connect!
